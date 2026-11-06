@@ -45,6 +45,4 @@ PASTE_YOUR_GITHUB_LINK_HERE
 
 ## Developer
 Neelakanth Chapi
-=======
-# react-assignment
->>>>>>> eb384c6fded067b986ca9f8afc5ead614416da12
+
