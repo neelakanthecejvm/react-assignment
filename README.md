@@ -1,7 +1,7 @@
 # React Assignment E-commerce Product Listing Application
 
 ## Live Demo
-PASTE_YOUR_VERCEL_LINK_HERE
+(https://react-assignment-6n656a489-neelakanthecejvm-7380.vercel.app/)
 
 ## Project Overview
 A responsive e-commerce product listing application developed using React and Vite.
