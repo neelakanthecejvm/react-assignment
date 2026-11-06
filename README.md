@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Assignment E-commerce Product Listing Application
 
 ## Live Demo
